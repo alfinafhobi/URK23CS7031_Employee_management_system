@@ -18,12 +18,7 @@ A simple Java-based Employee Management System with MySQL integration.
 - **MySQL Workbench** (Database management)
 - **JDBC** (Java Database Connectivity)
 - **Eclipse IDE** (Project development)
-
-## 🗂 Project Structure
-- `Employee.java` — Defines the employee entity.
-- `EmployeeManager.java` — Handles operations like add, update, view, search, and print.
-- `DatabaseConnection.java` — Manages connection between Java and MySQL.
-
+- 
 ## 🛢 Database Setup
 - Create a database in MySQL Workbench (e.g., `employee_db`).
 - Create a table `employees` with appropriate fields like `id`, `name`, `designation`, `salary`, etc.
