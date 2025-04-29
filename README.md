@@ -35,6 +35,24 @@ A simple Java-based Employee Management System with MySQL integration.
 3. Make sure **MySQL Workbench** is running.
 4. Compile and run the program.
 
+## Output Screenshots
+![Image](https://github.com/user-attachments/assets/dabe75b0-8257-46c1-a19a-73fa8772ca4e)
+
+![Image](https://github.com/user-attachments/assets/3ed2d991-dd14-4540-90ed-f16ec4f49c7e)
+
+![Image](https://github.com/user-attachments/assets/e3fc4276-dbaf-488a-8911-99a0e394da4b)
+
+![Image](https://github.com/user-attachments/assets/7f026202-751f-40c1-9bae-57234e903a5c)
+
+![Image](https://github.com/user-attachments/assets/f547a9c1-a60d-40dc-8776-ec0f1f7484de)
+
+![Image](https://github.com/user-attachments/assets/2aa508eb-6c8e-4d15-987c-6d98874468a0)
+
+![Image](https://github.com/user-attachments/assets/0e07b046-8a78-4c4c-8375-f54d89684ff7)
+
+![Image](https://github.com/user-attachments/assets/7cd8cd3c-a848-4244-b82e-f5b39cfd528c)
+
+![Image](https://github.com/user-attachments/assets/63214f8f-9f59-42de-b4c9-65e98fd5083d)
 ---
 
 
