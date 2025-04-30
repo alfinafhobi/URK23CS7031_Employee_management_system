@@ -41,13 +41,14 @@ A simple Java-based Employee Management System with MySQL integration.
 
 ![Image](https://github.com/user-attachments/assets/f547a9c1-a60d-40dc-8776-ec0f1f7484de)
 
-![Image](https://github.com/user-attachments/assets/2aa508eb-6c8e-4d15-987c-6d98874468a0)
+![image](https://github.com/user-attachments/assets/1035d49b-ca79-4e3c-80f6-ede85f11941e)
 
-![Image](https://github.com/user-attachments/assets/0e07b046-8a78-4c4c-8375-f54d89684ff7)
+![image](https://github.com/user-attachments/assets/f1f0a3e4-4e3c-425d-a0d0-6f854e843e71)
 
 ![Image](https://github.com/user-attachments/assets/7cd8cd3c-a848-4244-b82e-f5b39cfd528c)
 
-![Image](https://github.com/user-attachments/assets/63214f8f-9f59-42de-b4c9-65e98fd5083d)
+![image](https://github.com/user-attachments/assets/fafc4e0f-ade3-4a84-b90f-f7ce7a1cb696)
+
 ---
 
 
